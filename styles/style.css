@@ -1,7 +1,4 @@
-
-
-/* t */
-/* HEADER */
+/* header */
 
 .header {
   display: flex;
@@ -369,8 +366,8 @@
   position: static;
 }
 
-.footer__menu {
-}
+/* .footer__menu {
+} */
 
 .footer__menu-list {
   font-family: "Raleway", sans-serif;
